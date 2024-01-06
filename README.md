@@ -1,4 +1,4 @@
-# Tickets-and-ticket-lifecycle
+# Tickets-and-resolving
 
 Os-ticket end user will create a ticket here on this site
 http://localhost/osTicket/index.php
