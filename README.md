@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+
+
 # Tickets-and-resolving
 
 Os-ticket end user will create a ticket here on this site
